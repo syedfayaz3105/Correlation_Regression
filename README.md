@@ -1,5 +1,5 @@
-                                            NAME: FARHANA H
-                                            REG.NO: 212223230057
+                                             NAME: FARHANA H
+                                             REG.NO: 212223230057
 # Correlation and regression for data analysis
 # Aim : 
 
